@@ -78,5 +78,5 @@ Cpp, Go, Java, IoT 등 다양한 다른 분야를 공부한 내용을 기록할 
 Contact 는 언제나 환영입니다!  
 
 [Email](mailto:tae.gun7784@gmail.com)  
-[Github](https://github.com/gtg7784)
+[Github](https://github.com/gtg7784)  
 [FB](https://fb.com/gtg7784)
