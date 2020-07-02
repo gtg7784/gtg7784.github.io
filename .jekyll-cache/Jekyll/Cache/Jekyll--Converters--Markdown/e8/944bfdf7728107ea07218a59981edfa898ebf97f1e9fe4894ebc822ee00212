@@ -1,0 +1,70 @@
+I"y<h1 id="helllo">Helllo!</h1>
+
+<p>안녕하세요! 선린인터넷고등학교 소프트웨어과 <strong>고태건</strong>입니다.</p>
+
+<p>학교에서는 주로, <strong>A.I</strong> 와 <strong>Data Science</strong> 를 공부하고,
+현업에서는 <strong>Javacript/Typescript</strong> 를 활용한 다양한 개발에 참여하고 있습니다.</p>
+
+<p>프로그래밍을 좋아하고, 항상 다양한 분야에 관심이 있습니다.</p>
+
+<p><strong>Contact</strong><br />
+<a href="mailto:tae.gun7784@gmail.com">Email</a><br />
+<a href="https://github.com/gtg7784">Github</a></p>
+
+<h2 id="ai--data-science">A.I &amp; Data Science</h2>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="s">"gtg7784's Blog - A.I &amp; Data Science"</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p>gtg7784 ❤️ A.I</p>
+
+<p>Python 을 사용하여, 지도학습, 비지도학습, 강화학습 등 다양한 인공지능 모델을 제작하고 공부하는 내용을 다룰 예정입니다.</p>
+
+<p><strong><a href="./ai">Hello, AI !</a></strong></p>
+
+<p><strong>Github</strong><br />
+<a href="https://github.com/gtg7784/Senergy-AI">Senergy AI</a><br />
+<a href="https://github.com/Covidmulator/EpidemicEnv">EpidemicEnv</a><br />
+<a href="https://github.com/gtg7784/sunrin-festival-2019">2019 Sunrin Festival</a></p>
+
+<h2 id="javascript--typescript">JavaScript &amp; TypeScript</h2>
+<div class="language-ts highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">gtg7784's Blog - JavaScript &amp; TypeScript</span><span class="dl">"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>JavaScript &lt; TypeScript<br />
+주로 React 를 위주로 다루고, React-Native, Koa 등 다양한 개발을 다룰 예정입니다.</p>
+
+<p><strong><a href="./ts">Hello, TS !</a></strong></p>
+
+<p><strong>Github</strong><br />
+<a href="https://github.com/gtg7784/Senergy-App">Senergy App</a><br />
+<a href="https://github.com/gtg7784/contentmedia-web">contentmedia web</a><br />
+<a href="https://github.com/gtg7784/moviesthesedays">moviesthesedays</a></p>
+
+<h2 id="sunrin">Sunrin</h2>
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">sunrin</span> <span class="kn">import</span> <span class="n">gtg7784</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">gtg7784</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>선린인터넷고등학교 소프트웨어과 학생<br />
+선린인터넷고등학교와 관련된 전반적인 학교 생활에 대한 내용, 일상을 기록할 예정입니다.</p>
+
+<p><strong><a href="./sunrin">Hello, Sunrin !</a></strong></p>
+
+<h2 id="study">Study.</h2>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">import</span> <span class="o">&lt;</span><span class="n">iostream</span><span class="o">&gt;</span>
+<span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
+  <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"gtg7784's Blog - Study"</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
+  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>다른 언어와, 다양한 분야를 다루기도 합니다.<br />
+Cpp, Go, Java, IoT 등 다양한 다른 분야를 공부한 내용을 기록할 예정입니다.</p>
+
+<p><strong><a href="">Hello Study !</a></strong></p>
+:ET
